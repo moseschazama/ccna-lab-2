@@ -1,0 +1,6 @@
+hostname Cloud
+interface g0/2
+ ip address 203.13.1.2 255.255.255.252
+interface g0/0
+ ip address 8.8.8.1 255.255.255.0
+ip route 0.0.0.0 0.0.0.0 203.13.1.1
