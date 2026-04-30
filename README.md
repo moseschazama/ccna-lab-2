@@ -1,4 +1,4 @@
-# CCNA Lab 2 – Finalized Enterprise Branch Network
+# CCNA Lab 2 – Small Enterprise Branch Network
 
 ## 📌 Overview
 This project implements a full CCNA-level enterprise branch network with:
